@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.containeer{
+  height: 40vh;
+  width: 40vw;
+  background-color: green;
+  align-items: center;
+  padding: 100px ;
+  margin-left: 10rem;
+  border-radius: 2%;
+}
+
+.toggle--button{
+  height: 200px;
+  width: 400px;
+  border: none;
+  background-color: purple;
+  color: white;
+  cursor: pointer;
+  padding: 20px;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  display: table;
+}
+
+.toggle--close{
+  background-color: red;
+}
+
+.but{
+  height: 50px;
+  width: 100px;
+  align-items: center;
+  background-color: aqua;
+  border-radius: 50%;
+  font-style: italic;
+  font-size: 20px;
+
+}
